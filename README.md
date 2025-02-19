@@ -15,7 +15,7 @@ To achieve these objectives, the project used various advanced Excel functions s
 The project showcases the use of Excel, SQL, and dashboard tools such as Power BI and Tableau for data analysis and visualization, and provides a valuable resource for anyone interested in learning more about these tools and techniques.
 
 
-Excel
+Excel:
 To achieve the objectives of the Zomato Restaurant Data Analysis project, various advanced Excel functions were used, including:
 
 SUMIFS and COUNTIFS functions to extract and count data based on specific criteria
@@ -26,7 +26,7 @@ VLOOKUP and INDEX-MATCH functions to merge data from different tables
 DATE and YEAR functions to extract information from date fields
 
 
-SQL
+SQL:
 To extract relevant data from the Zomato dataset, SQL queries were executed using the following keywords:
 
 SELECT to retrieve data from specific columns
@@ -39,7 +39,7 @@ Window functions, such as ROW_NUMBER, RANK, and DENSE_RANK, to perform calculati
 Date functions, such as DATEADD, DATEDIFF, and DATEPART, to extract information from date fields and perform date calculations
 
 
-Power BI
+Power BI:
 To visualize and analyze the Zomato restaurant data, Power BI was used to create interactive dashboards. The following features and functions were utilized:
 
 Data modeling using relationships between tables and calculated columns
@@ -49,7 +49,7 @@ Slicers and filters to enable dynamic filtering of the data
 Drill-through functionality to navigate between different levels of detail in the data
 
 
-Tableau
+Tableau:
 In addition to Power BI, Tableau was also used to create interactive dashboards for the Zomato restaurant data analysis project. The following features and functions were utilized:
 
 Data blending to combine data from different tables
